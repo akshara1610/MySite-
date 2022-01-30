@@ -1,0 +1,153 @@
+body
+{
+    margin:0;
+    text-align: center;
+    
+}
+
+h1
+{
+    
+    margin: 50px auto;
+    font-size: 400%;
+    color: #B91646;
+    
+}
+h2
+{
+    font-size: 2rem;
+    color: #B91646;
+    font-weight: normal;
+}
+
+hr
+        {
+            border-color: black;
+            border-style: dotted none none;
+            width: 5%;
+            border-width: 5px;
+        }
+
+h3
+{
+    color: #9D5353;
+}
+
+a
+{
+    color: #9D5353; 
+}
+
+.top-container
+{
+    background-color: #F5EEDC;
+    padding-top: 200px;
+    position: relative;
+    font-family: cursive;
+    
+}
+
+
+
+.cl1
+{
+    position: absolute;
+    top: 150px;
+    right: 450px;
+}
+
+.cl2
+{
+    position: absolute;
+    left: 500px;
+}
+
+.pp
+{
+    width: 200px;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+    
+}
+
+.skillpic
+{
+    width: 20%;
+    float:left;
+    margin-right: 30px;
+}
+
+.skillpic2
+{
+    width: 20%;
+    float:right;
+    margin-left: 30px;
+}
+
+.intro-para
+{
+    width: 25%;
+    margin: 100px auto 100px auto; 
+    line-height: 2;
+}
+
+.btn {
+    background: #c27474;
+    background-image: -webkit-linear-gradient(top, #c27474, #7a3636);
+    background-image: -moz-linear-gradient(top, #c27474, #7a3636);
+    background-image: -ms-linear-gradient(top, #c27474, #7a3636);
+    background-image: -o-linear-gradient(top, #c27474, #7a3636);
+    background-image: linear-gradient(to bottom, #c27474, #7a3636);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #f2e9f2;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #9c5454;
+    background-image: -webkit-linear-gradient(top, #9c5454, #823e3e);
+    background-image: -moz-linear-gradient(top, #9c5454, #823e3e);
+    background-image: -ms-linear-gradient(top, #9c5454, #823e3e);
+    background-image: -o-linear-gradient(top, #9c5454, #823e3e);
+    background-image: linear-gradient(to bottom, #9c5454, #823e3e);
+    text-decoration: none;
+  }
+
+  .bottom-container
+  {
+      background-color:#F5EEDC ;
+      margin-top: 50px;
+      margin-bottom: 0px;
+      height: 100px;
+      padding: 20px;
+  }
+
+  a
+  {
+      margin: 50px 20px;
+      text-decoration: none;
+  }
+
+  a:hover
+  {
+      color: black;
+  }
+
+  .copyright
+  {
+      font-size: small;
+      padding: 20px 0;
+  }
+
